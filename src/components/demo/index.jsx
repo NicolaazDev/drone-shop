@@ -12,7 +12,7 @@ const AccessoriesSection = () => {
       <Content className="content">
         <div className="video-container">
           <video muted id="videodemo" autoPlay loop>
-            <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" />
+            <source src="https://res.cloudinary.com/dmceve2cp/video/upload/v1719951664/DJI_-_Introducing_DJI_Mini_3_Pro_mezx1m.mp4" />
             Your browser does not support the video tag.
           </video>
         </div>
